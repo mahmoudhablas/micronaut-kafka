@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, graalvm, http-client, java, java-application, junit, kafka, kafka-streams, logback, maven, netty-server, reactor, reactor-http-client, readme, serialization-jackson, shade, test-resources, yaml]

@@ -1,0 +1,15 @@
+micronaut:
+  application:
+    name: demoKafkaAnalytic
+  server:
+    port: 8081
+netty:
+  default:
+    allocator:
+      max-order: 3
+
+kafka:
+  bootstrap:
+    servers: localhost:9092
+
+
